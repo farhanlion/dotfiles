@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bbss1e3farhan@gmail.com
+	name = farhan ahsan
